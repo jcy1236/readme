@@ -5,7 +5,7 @@
 | 언어  | C/C++, Python  |   
 | GUI | tkinter(python), Windows Forms(C#) | 
 | DevOps  | Atlasssian (Jira, Confluence, Bitbucket), Git  | 
-| etc  | UML, design pattern   | 
+| etc  | UML, design pattern, WinCE6.0   | 
 
 
 
